@@ -1,8 +1,6 @@
 hapi-lxjs
 =========
 
-LXJS Repository for API building
+The 2014 LXJS Hapi tutorial!
 
 _Hallo!_
-
-Welcome to the Hapi Training for LXJS. 
